@@ -1,6 +1,6 @@
 My Portfolio:
 
-This is a simple personal portfolio website made using HTML.
+This is an updated Assignment Portfolio editing the previous HTML file as also using CSS.
 
 About
 
@@ -15,7 +15,7 @@ The website contains information about:
 
 How to Run:
 
-Simply open the `index.html` file in a web browser.
+Simply open the `bossportfolio.html` file in a web browser.
 
 Author:
 
